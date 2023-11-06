@@ -1,2 +1,2 @@
-# aptron
+# amptron
 ระบบหอพักโดย Java spring
